@@ -1,0 +1,9 @@
+bool a;
+int b;
+int c;
+a = false;
+b = b+a;
+if (a) {
+ b = 2;
+}
+c = 5;

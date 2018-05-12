@@ -1,0 +1,10 @@
+int a;
+int b;
+int c;
+for(a=0;a<1;a=a+1;){
+    int f;
+    f=1;
+   b=b+1;
+}
+b=c-a;
+

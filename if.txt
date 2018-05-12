@@ -1,0 +1,9 @@
+int a;
+float b;
+float c;
+int d;
+if (a * b > 2 * c) {
+    b = b - 2;
+    b=c+d;
+}
+b = 3 / a;

@@ -1,0 +1,11 @@
+int a;
+bool c;
+bool d;
+int b;
+c=true;
+while (d && c) {
+    a = b - 2;
+    b=b-a;
+}
+    
+b = 3 / a;
